@@ -1,0 +1,21 @@
+ul{
+list-style-type:none;
+}
+#menu li a{
+font-family:armenian;
+font-size:25px;
+float:left;
+padding:24px;
+background-color:#C0C0C0;
+color: #883801a;
+text-decoration:georgian;
+height:18px;
+}
+#all-menu {
+width:auto;
+height: 68px;
+background-color:#0f71ba;
+}
+ul{
+list-style-type:none;
+}
