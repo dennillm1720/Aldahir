@@ -1,0 +1,54 @@
+
+#encabezado {
+ background-color: #3E606F;
+ color: white;
+ padding: 10px ;
+ text-align: center;
+ font-family: Century Gothic;
+}
+* {margin:5; padding:0; border:0;}
+html, body {
+width: auto;
+height: 100%;
+font-family:Century Gothic;
+background-color:black;
+}
+header{
+position:relative;
+background-color:#91AA9D;
+color:#FFF;
+width:98%;
+height:17%;
+margin: 0px auto;
+}
+section{
+position:relative;
+float:left;
+background-color:#D1DBBD;
+width:78%;
+height:60%;
+color:#FFF;
+}
+article{
+background-color: #fff;
+width:98%;
+height:80%;
+color:black;
+
+}
+aside{
+position:relative;
+background-color:#91AA9D;
+width:18%;
+height:50%;
+color:#FFF;
+float:left;
+border:5;
+}
+
+
+header,section,footer,article,aside,nav
+{
+margin:1%;
+}
+
